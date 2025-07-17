@@ -30,7 +30,7 @@ I hold a PhD in Natural Language Processing (NLP) from Tel Aviv University, wher
         {{ pub.title }}
         
         {% if pub.star %}
-          <img src="trophy.png" alt="Star" style="width: auto; height: 18px;"/>
+          <img src="{{ "/images/trophy.png" | relative_url }}" alt="Star" style="width: auto; height: 18px;"/>
         {% endif %}
 
         {% if pub.award %}
