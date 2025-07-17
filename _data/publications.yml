@@ -1,18 +1,14 @@
-- venue: "arXiv 2025"
+- venue: "COLM 2025"
   title: "Inside-out: Hidden factual knowledge in llms"
   authors: "Zorik Gekhman, Eyal Ben David, Hadas Orgad, Eran Ofek, Yonatan Belinkov, Idan Szpektor, <u>Jonathan Herzig</u>, Roi Reichart"
-
-- venue: "arXiv 2025"
-  title: "DRAGged into Conflicts: Detecting and Addressing Conflicting Sources in Search-Augmented LLMs"
-  authors: "Arie Cattan, Alon Jacovi, Ori Ram, <u>Jonathan Herzig</u>, Roee Aharoni, Sasha Goldshtein, Eran Ofek, Idan Szpektor, Avi Caciularu"
 
 - venue: "arXiv 2025"
   title: "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities"
   authors: "Gheorghe Comanici, Eric Bieber, Mike Schaekermann, Ice Pasupat, Noveen Sachdeva, Inderjit Dhillon, Marcel Blistein, Ori Ram, Dan Zhang, Evan Rosen, others"
 
-- venue: "US Patent 2024"
-  title: "Systems and methods for training language models to reason over tables"
-  authors: "M\"u"
+- venue: "arXiv 2025"
+  title: "DRAGged into Conflicts: Detecting and Addressing Conflicting Sources in Search-Augmented LLMs"
+  authors: "Arie Cattan, Alon Jacovi, Ori Ram, <u>Jonathan Herzig</u>, Roee Aharoni, Sasha Goldshtein, Eran Ofek, Idan Szpektor, Avi Caciularu"
 
 - venue: "Findings of ACL 2024"
   title: "Multilingual instruction tuning with just a pinch of multilinguality"
@@ -21,10 +17,6 @@
 - venue: "ACL 2024"
   title: "A Chain-of-Thought Is as Strong as Its Weakest Link: A Benchmark for Verifiers of Reasoning Chains"
   authors: "Alon Jacovi, Yonatan Bitton, Bernd Bohnet, <u>Jonathan Herzig</u>, Or Honovich, Michael Tseng, Michael Collins, Roee Aharoni, Mor Geva"
-
-- venue: "US Patent 2024"
-  title: "Systems and methods for training language models to reason over tables"
-  authors: "M\"u"
 
 - venue: "arXiv 2024"
   title: "Constructing benchmarks and interventions for combating hallucinations in llms"
@@ -38,7 +30,7 @@
   title: "TACT: Advancing Complex Aggregative Reasoning with Information Extraction Tools"
   authors: "Avi Caciularu, Alon Jacovi, Eyal Ben-David, Sasha Goldshtein, Tal Schuster, <u>Jonathan Herzig</u>, Gal Elidan, Amir Globerson"
 
-- venue: "Forty-first International Conference on Machine Learning 2024"
+- venue: "ICML 2024"
   title: "Representation Surgery: Theory and Practice of Affine Steering"
   authors: "Shashwat Singh, Shauli Ravfogel, <u>Jonathan Herzig</u>, Roee Aharoni, Ryan Cotterell, Ponnurangam Kumaraguru"
 
@@ -49,10 +41,6 @@
 - venue: "arXiv 2024"
   title: "Distinguishing ignorance from error in llm hallucinations"
   authors: "Adi Simhi, <u>Jonathan Herzig</u>, Idan Szpektor, Yonatan Belinkov"
-
-- venue: "US Patent 2024"
-  title: "Consistency evaluation for document summaries using language model neural networks"
-  authors: "Zorik Gekhman, <u>Jonathan Herzig</u>, Roee Aharoni, Idan Szpektor"
 
 - venue: "Findings of ACL 2023"
   title: "mFACE: Multilingual Summarization with Factual Consistency Evaluation"
@@ -70,7 +58,7 @@
   title: "Evaluating and Modeling Attribution for Cross-Lingual Question Answering"
   authors: "Benjamin Muller, John Wieting, Jonathan H Clark, Tom Kwiatkowski, Sebastian Ruder, Livio Baldini Soares, Roee Aharoni, <u>Jonathan Herzig</u>, Xinyi Wang"
 
-- venue: "Proceedings of the Third Workshop on Natural Language Generation, Evaluation, and Metrics (GEM) 2023"
+- venue: "GEM Workshop 2023"
   title: "QAMPARI: A benchmark for open-domain questions with many answers"
   authors: "Samuel Amouyal, Tomer Wolfson, Ohad Rubin, Ori Yoran, <u>Jonathan Herzig</u>, Jonathan Berant"
 
@@ -81,10 +69,6 @@
 - venue: "Compendium of Neurosymbolic Artificial Intelligence 2023"
   title: "Latent Trees for Compositional Generalization"
   authors: "<u>Jonathan Herzig</u>, Jonathan Berant, Ben Bogin"
-
-- venue: "US Patent 2022"
-  title: "Automatic generation of training data for scientific paper summarization using videos"
-  authors: "<u>Jonathan Herzig</u>, Achiya Jerbi, David Konopnicki, Guy Lev, Michal Shmueli-Scheuer"
 
 - venue: "NAACL 2022"
   title: "Learning To Retrieve Prompts for In-Context Learning"
@@ -102,17 +86,9 @@
   title: "Attributed question answering: Evaluation and modeling for attributed large language models"
   authors: "Bernd Bohnet, Vinh Q Tran, Pat Verga, Roee Aharoni, Daniel Andor, Livio Baldini Soares, Massimiliano Ciaramita, Jacob Eisenstein, Kuzman Ganchev, <u>Jonathan Herzig</u>, others"
 
-- venue: "US Patent 2021"
-  title: "Optimizing personality traits of virtual agents"
-  authors: "<u>Jonathan Herzig</u>, David Konopnicki, Michal Shmueli-Scheuer"
-
 - venue: "ACL 2021"
   title: "Span-based semantic parsing for compositional generalization"
   authors: "<u>Jonathan Herzig</u>, Jonathan Berant"
-
-- venue: "US Patent 2021"
-  title: "Neural representation of automated conversational agents (chatbots)"
-  authors: "<u>Jonathan Herzig</u>, David Konopnicki, Tommy Sandbank, Michal Shmueli-Scheuer"
 
 - venue: "NAACL 2021"
   title: "Open Domain Question Answering over Tables via Dense Retrieval"
@@ -126,10 +102,6 @@
   title: "Finding needles in a haystack: Sampling Structurally-diverse Training Sets from Synthetic Data for Compositional Generalization"
   authors: "Inbar Oren, <u>Jonathan Herzig</u>, Jonathan Berant"
 
-- venue: "US Patent 2020"
-  title: "Emotion detection and expression integration in dialog systems"
-  authors: "<u>Jonathan Herzig</u>, David Konopnicki, Tommy Sandbank, Michal Shmueli-Scheuer"
-
 - venue: "ACL 2020"
   title: "TAPAS: Weakly Supervised Table Parsing via Pre-training"
   authors: "<u>Jonathan Herzig</u>, Pawel Nowak"
@@ -142,17 +114,13 @@
   title: "TalkSumm: A Dataset and Scalable Annotation Method for Scientific Paper Summarization Based on Conference Talks"
   authors: "Guy Lev, Michal Shmueli-Scheuer, <u>Jonathan Herzig</u>, Achiya Jerbi, David Konopnicki"
 
-- venue: "Proceedings of the Eighth Joint Conference on Lexical and Computational Semantics (* SEM 2019)"
+- venue: "*SEM 2019"
   title: "Bot2vec: Learning representations of chatbots"
   authors: "<u>Jonathan Herzig</u>, Tommy Sandbank, Michal Shmueli-Scheuer, David Konopnicki"
 
-- venue: "Proceedings of the 27th ACM conference on user modeling, adaptation and personalization 2019"
+- venue: "UMAP 2019"
   title: "Detecting persuasive arguments based on author-reader personality traits and their interaction"
   authors: "Michal Shmueli-Scheuer, <u>Jonathan Herzig</u>, David Konopnicki, Tommy Sandbank"
-
-- venue: "US Patent 2019"
-  title: "Emotion detection and expression integration in dialog systems"
-  authors: "<u>Jonathan Herzig</u>, David Konopnicki, Tommy Sandbank, Michal Shmueli-Scheuer"
 
 - venue: "EMNLP 2019"
   title: "Don't paraphrase, detect! Rapid and Effective Data Collection for Semantic Parsing"
@@ -162,11 +130,7 @@
   title: "A Summarization System for Scientific Documents"
   authors: "Shai Erera, Michal Shmueli-Scheuer, Guy Feigenblat, Ora Peled Nakash, Odellia Boni, Haggai Roitman, Doron Cohen, Bar Weiner, Yosi Mass, Or Rivlin, others"
 
-- venue: "US Patent 2018"
-  title: "Emotion detection over social media"
-  authors: "Guy Feigenblat, <u>Jonathan Herzig</u>, David Konopnicki, Michal Shmueli-Scheuer"
-
-- venue: "Companion Proceedings of the 23rd International Conference on Intelligent User Interfaces 2018"
+- venue: "IUI 2018"
   title: "On the Expression of Agent Emotions in Customer Support Dialogs in Social Media"
   authors: "Michal Shmueli-Scheuer, <u>Jonathan Herzig</u>, Tommy Sandbank, David Konopnicki"
 
@@ -174,55 +138,51 @@
   title: "Decoupling Structure and Lexicon for Zero-Shot Semantic Parsing"
   authors: "<u>Jonathan Herzig</u>, Jonathan Berant"
 
-- venue: "NAACL 2019 2018"
+- venue: "NAACL 2019"
   title: "CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge"
   authors: "Alon Talmor, <u>Jonathan Herzig</u>, Nicholas Lourie, Jonathan Berant"
 
-- venue: "NAACL 2019 2018"
+- venue: "NAACL 2019"
   title: "Value-based Search in Execution Space for Mapping Instructions to Programs"
   authors: "Dor Muhlgay, <u>Jonathan Herzig</u>, Jonathan Berant"
-
-- venue: "US Patent 2017"
-  title: "Identifying influencers in computer networks"
-  authors: "<u>Jonathan Herzig</u>, Yosi Mass, Haggai Roitman"
 
 - venue: "ACL 2017"
   title: "Neural semantic parsing over multiple knowledge-bases"
   authors: "<u>Jonathan Herzig</u>, Jonathan Berant"
 
-- venue: "Companion Proceedings of the 22nd International Conference on Intelligent User Interfaces 2017"
+- venue: "IUI 2017"
   title: "Ehctool: Managing emotional hotspots for conversational agents"
   authors: "Tommy Sandbank, Michal Shmueli-Scheuer, <u>Jonathan Herzig</u>, David Konopnicki, Rottem Shaul"
 
-- venue: "Proceedings of the 10th international conference on natural language generation 2017"
+- venue: "INLG 2017"
   title: "Neural response generation for customer service based on personality traits"
   authors: "<u>Jonathan Herzig</u>, Michal Shmueli-Scheuer, Tommy Sandbank, David Konopnicki"
 
-- venue: "NAACL 2018 2017"
+- venue: "NAACL 2018"
   title: "Detecting Egregious Conversations between Customers and Virtual Agents"
   authors: "Tommy Sandbank, Michal Shmueli-Scheuer, David Konopnicki, <u>Jonathan Herzig</u>, John Richards, David Piorkowski"
 
-- venue: "Proceedings of the ACM SIGIR international conference on theory of information retrieval 2017"
+- venue: "ICTIR 2017"
   title: "Emotion detection from text via ensemble classification using word embeddings"
   authors: "<u>Jonathan Herzig</u>, Michal Shmueli-Scheuer, David Konopnicki"
 
-- venue: "Proceedings of the 19th ACM Conference on Computer Supported Cooperative Work and Social Computing Companion 2016"
+- venue: "CSCW 2016"
   title: "I understand your frustration"
   authors: "Guy Feigenblat, David Konopnicki, Michal Shmueli-Scheuer, <u>Jonathan Herzig</u>, Hen Shkedi"
 
-- venue: "Proceedings of the 2016 Conference on User Modeling Adaptation and Personalization"
+- venue: "UMAP 2016"
   title: "Predicting customer satisfaction in customer support conversations in social media using affective features"
   authors: "<u>Jonathan Herzig</u>, Guy Feigenblat, Michal Shmueli-Scheuer, David Konopnicki, Anat Rafaeli"
 
-- venue: "Proceedings of the 17th annual meeting of the special interest group on discourse and dialogue 2016"
+- venue: "SIGDial 2016"
   title: "Classifying emotions in customer support dialogues in social media"
   authors: "<u>Jonathan Herzig</u>, Guy Feigenblat, Michal Shmueli-Scheuer, David Konopnicki, Anat Rafaeli, Daniel Altman, David Spivak"
 
-- venue: "Proceedings of the 25th ACM conference on Hypertext and social media 2014"
+- venue: "Hypertext 2014"
   title: "An author-reader influence model for detecting topic-based influencers in social media"
   authors: "<u>Jonathan Herzig</u>, Yosi Mass, Haggai Roitman"
 
-- venue: "Proceedings of the 2nd ACM International Workshop on Immersive Media Experiences 2014"
+- venue: "ImmersiveMe 2014"
   title: "Mindful: A Platform for Large-Scale Affective Field Research"
   authors: "Guy Feigenblat, <u>Jonathan Herzig</u>, Michal Shmueli-Scheuer, David Konopnicki"
 
@@ -234,6 +194,6 @@
   title: "A statistical approach to mining customers' conversational data from social media"
   authors: "David Konopnicki, Michal Shmueli-Scheuer, Doron Cohen, Benjamin Sznajder, <u>Jonathan Herzig</u>, Ariel Raviv, N Zwerling, Haggai Roitman, Yosi Mass"
 
-- venue: "Proceedings of the 17th Panhellenic Conference on Informatics 2013"
+- venue: "PCI 2013"
   title: "Eventsense: Capturing the pulse of large-scale events by mining social media streams"
   authors: "Emmanouil Schinas, Symeon Papadopoulos, Sotiris Diplaris, Yiannis Kompatsiaris, Yosi Mass, <u>Jonathan Herzig</u>, Lazaros Boudakidis"
