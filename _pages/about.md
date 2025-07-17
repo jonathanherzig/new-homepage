@@ -6,9 +6,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Staff Research Scientist and Tech Lead at Google Research, where I specialize in Artificial Intelligence. My work is centered on establishing the factuality of Large Language Models (LLMs), with a specific focus on Gemini. My research spans the entire model development lifecycle, developing pre-training and Reinforcement Learning methods that endow LLMs with profound knowledge and minimize hallucinations.
+I am a Staff Research Scientist and Tech Lead at Google Research, where I specialize in Artificial Intelligence. My work is centered on establishing the factuality of Large Language Models, with a specific focus on Gemini. My research spans the entire model development lifecycle, developing pre-training and Reinforcement Learning methods that endow LLMs with profound knowledge and minimize hallucinations.
 
-I earned my PhD in Natural Language Processing (NLP) from Tel Aviv University as a recipient of the [Google PhD Fellowship](https://ai.googleblog.com/2018/04/announcing-2018-google-phd-fellows-for.html). During my doctoral studies, I completed three research internships at Google. Prior to my PhD, I was a Research Staff Member at IBM Research, where I worked on Deep Learning architectures for NLP. My research has been recognized with a Best Paper Award at INLG 2017 and a Best Resource Paper Award at NAACL 2019.
+I earned my PhD in Natural Language Processing from Tel Aviv University as a recipient of the [Google PhD Fellowship](https://ai.googleblog.com/2018/04/announcing-2018-google-phd-fellows-for.html). During my doctoral studies, I completed three research internships at Google. Prior to my PhD, I was a Research Staff Member at IBM Research, where I worked on Deep Learning architectures for NLP. My research has been recognized with a Best Paper Award at INLG 2017 and a Best Resource Paper Award at NAACL 2019.
 
 ## 📜 Publications
 
