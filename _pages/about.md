@@ -6,7 +6,9 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a Staff Research Scientist specializing in Artificial Intelligence. My current work at Google focuses on enhancing the factuality of Large Language Models (LLMs), with a specific emphasis on the Gemini models. My research spans the entire model development lifecycle, from foundational pre-training to targeted post-training techniques aimed at improving reliability and accuracy.
+
+I hold a PhD in Natural Language Processing (NLP) from Tel Aviv University, where my doctoral studies were supported by the prestigious Google PhD Fellowship. Prior to my current role, I gained foundational experience as a Research Staff Member at IBM Research and further honed my skills through three research internships at Google. My contributions to the field have been recognized with a Best Resource Paper Award at NAACL 2019 and a Best Paper Award at INLG 2017.
 
 # Publications
 
