@@ -11,3 +11,40 @@ This is the front page of a website that is powered by the [Academic Pages templ
 # Publications
 
 ---
+<table class="tg">
+  <tbody>
+    {% for pub in site.data.publications %}
+    <tr>
+      <td class="tg-wk8r">{{ pub.venue }}</td>
+      <td class="tg-oe15">
+        {{ pub.title }}
+        
+        {% if pub.star %}
+          <img src="star.png" alt="Star" style="width: auto; height: 18px;"/>
+        {% endif %}
+
+        {% if pub.award %}
+          <span style="color:#800000;">{{ pub.award }}</span>
+        {% endif %}
+
+        {% if pub.media %}
+          <span style="color:#800000;">{{ pub.media }}</span>
+        {% endif %}
+
+        <br>{{ pub.authors }}
+        <span style="display: block; margin-bottom: -13px;"></span> <br> 
+        
+        <a href="{{ pub.pdf }}">
+          <img src="https://img.shields.io/badge/PDF-80000f" alt="PDF" style="width: auto; height: 20px;"/>
+        </a>
+        
+        {% if pub.github %}
+        <a href="{{ pub.github }}">
+          <img src="https://img.shields.io/badge/GitHub-004f80" alt="GitHub Repository" style="width: auto; height: 20px;"/>
+        </a>
+        {% endif %}
+      </td>
+    </tr>
+    {% endfor %}
+  </tbody>
+</table>
