@@ -1,11 +1,11 @@
 - venue: "arXiv 2024"
-  title: "paper 1"
-  authors: "<u>a</u>, b, c"
+  title: "Unlocking Compositional Generalization in Pre-trained Models Using Intermediate Representations"
+  authors: "<u>Jonathan Herzig</u> Peter Shaw, Ming-Wei Chang, Kelvin Guu, Panupong Pasupat, Yuan Zhang"
   pdf: "https://arxiv.org/pdf/1811.00937"
   star: true
   media: 'great'
 
 - venue: "NeurIPS 2024"
-  title: "paper 2"
-  authors: "<u>a</u>, b"
+  title: "Span-based Semantic Parsing for Compositional Generalization"
+  authors: "<u>Jonathan Herzig</u>, Jonathan Berant"
   pdf: "https://arxiv.org/pdf/1811.00937"
