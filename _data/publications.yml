@@ -1,5 +1,5 @@
-- venue: "<b>arXiv 2025<\b>"
-  title: "<b>Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities<\b>"
+- venue: "arXiv 2025"
+  title: "Gemini 2.5: Pushing the Frontier with Advanced Reasoning, Multimodality, Long Context, and Next Generation Agentic Capabilities"
   authors: "Gemini Team"
   pdf: "https://arxiv.org/pdf/2507.06261"
 
@@ -23,7 +23,7 @@
   title: "A Chain-of-Thought Is as Strong as Its Weakest Link: A Benchmark for Verifiers of Reasoning Chains"
   authors: "Alon Jacovi, Yonatan Bitton, Bernd Bohnet, <u>Jonathan Herzig</u>, Or Honovich, Michael Tseng, Michael Collins, Roee Aharoni, Mor Geva"
   pdf: "https://arxiv.org/pdf/2402.00559"
-  project: "reveal-dataset.github.io"
+  project: "https://reveal-dataset.github.io"
 
 - venue: "arXiv 2024"
   title: "Constructing benchmarks and interventions for combating hallucinations in llms"
