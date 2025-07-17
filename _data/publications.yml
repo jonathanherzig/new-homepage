@@ -1,0 +1,11 @@
+- venue: "arXiv 2024"
+  title: "paper 1"
+  authors: "<u>a</u>, b, c"
+  pdf: "https://arxiv.org/pdf/1811.00937"
+  star: true
+  media: 'great'
+
+- venue: "NeurIPS 2024"
+  title: "paper 2"
+  authors: "<u>a</u>, b"
+  pdf: "https://arxiv.org/pdf/1811.00937"
