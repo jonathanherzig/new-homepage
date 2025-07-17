@@ -28,7 +28,7 @@ This is the front page of a website that is powered by the [Academic Pages templ
         {{ pub.title }}
         
         {% if pub.star %}
-          <img src="star.png" alt="Star" style="width: auto; height: 18px;"/>
+          <img src="trophy.png" alt="Star" style="width: auto; height: 18px;"/>
         {% endif %}
 
         {% if pub.award %}
