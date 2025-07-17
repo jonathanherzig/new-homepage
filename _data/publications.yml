@@ -11,7 +11,7 @@
 - venue: "arXiv 2025"
   title: "DRAGged into Conflicts: Detecting and Addressing Conflicting Sources in Search-Augmented LLMs"
   authors: "Arie Cattan, Alon Jacovi, Ori Ram, <u>Jonathan Herzig</u>, Roee Aharoni, Sasha Goldshtein, Eran Ofek, Idan Szpektor, Avi Caciularu"
-  pdf: "https://arxiv.org/pdf/2506.08500?"
+  pdf: "https://arxiv.org/pdf/2506.08500"
   github: "https://github.com/google-research-datasets/rag_conflicts"
 
 - venue: "Findings of ACL 2024"
