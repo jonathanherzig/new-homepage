@@ -53,6 +53,12 @@ I earned my PhD in Natural Language Processing from Tel Aviv University as a rec
           <img src="https://img.shields.io/badge/GitHub-004f80" alt="GitHub Repository" style="width: auto; height: 20px;"/>
         </a>
         {% endif %}
+
+        {% if pub.project %}
+        <a href="{{ pub.project }}">
+          <img src="https://img.shields.io/badge/Project-004f80" alt="Project page" style="width: auto; height: 20px;"/>
+        </a>
+        {% endif %}
       </td>
     </tr>
     {% endfor %}
