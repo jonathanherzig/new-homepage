@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Jonathan Herzig"
+title                    : "Jonathan's Homepage"
 title_separator          : "-"
 name                     : &name "Jonathan Herzig"
 description              : &description "personal description"
