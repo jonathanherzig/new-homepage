@@ -125,18 +125,26 @@
 - venue: "ACL 2021"
   title: "Span-based semantic parsing for compositional generalization"
   authors: "<u>Jonathan Herzig</u>, Jonathan Berant"
+  pdf: "https://arxiv.org/pdf/2009.06040"
+  github: "https://github.com/jonathanherzig/span-based-sp"
 
 - venue: "NAACL 2021"
   title: "Open Domain Question Answering over Tables via Dense Retrieval"
-  authors: "<u>Jonathan Herzig</u>, M\"u"
+  authors: "<u>Jonathan Herzig</u>, Thomas Müller, Syrine Krichene, Julian Martin Eisenschlos"
+  pdf: "https://arxiv.org/pdf/2103.12011"
+  github: "https://github.com/google-research/tapas"
 
 - venue: "arXiv 2021"
   title: "Unlocking compositional generalization in pre-trained models using intermediate representations"
   authors: "<u>Jonathan Herzig</u>, Peter Shaw, Ming-Wei Chang, Kelvin Guu, Panupong Pasupat, Yuan Zhang"
+  pdf: "https://arxiv.org/pdf/2104.07478"
+  github: "https://github.com/google-research/language/tree/master/language/compir"
 
 - venue: "EMNLP 2021"
   title: "Finding needles in a haystack: Sampling Structurally-diverse Training Sets from Synthetic Data for Compositional Generalization"
   authors: "Inbar Oren, <u>Jonathan Herzig</u>, Jonathan Berant"
+  pdf: "https://arxiv.org/pdf/2109.02575"
+  github: "http://github.com/inbaroren/scfg-sampling-for-comp-gen"
 
 - venue: "ACL 2020"
   title: "TAPAS: Weakly Supervised Table Parsing via Pre-training"
