@@ -102,18 +102,25 @@
 - venue: "NAACL 2022"
   title: "Learning To Retrieve Prompts for In-Context Learning"
   authors: "Ohad Rubin, <u>Jonathan Herzig</u>, Jonathan Berant"
+  pdf: "https://arxiv.org/pdf/2112.08633"
+  github: "https://github.com/OhadRubin/EPR"
 
 - venue: "NAACL 2022"
   title: "TRUE: Re-evaluating Factual Consistency Evaluation"
   authors: "Or Honovich, Roee Aharoni, <u>Jonathan Herzig</u>, Hagai Taitelbaum, Doron Kukliansy, Vered Cohen, Thomas Scialom, Idan Szpektor, Avinatan Hassidim, Yossi Matias"
+  pdf: "https://arxiv.org/pdf/2204.04991"
+  github: "http://www.github.com/google-research/true"
 
 - venue: "EMNLP 2022"
   title: "Evaluating the Impact of Model Scale for Compositional Generalization in Semantic Parsing"
   authors: "Linlu Qiu, Peter Shaw, Panupong Pasupat, Tianze Shi, <u>Jonathan Herzig</u>, Emily Pitler, Fei Sha, Kristina Toutanova"
+  pdf: "https://arxiv.org/pdf/2205.12253"
 
 - venue: "arXiv 2022"
   title: "Attributed question answering: Evaluation and modeling for attributed large language models"
-  authors: "Bernd Bohnet, Vinh Q Tran, Pat Verga, Roee Aharoni, Daniel Andor, Livio Baldini Soares, Massimiliano Ciaramita, Jacob Eisenstein, Kuzman Ganchev, <u>Jonathan Herzig</u>, others"
+  authors: "Bernd Bohnet, Vinh Q Tran, Pat Verga, Roee Aharoni, Daniel Andor, Livio Baldini Soares, Massimiliano Ciaramita, Jacob Eisenstein, Kuzman Ganchev, <u>Jonathan Herzig</u>, Kai Hui, Tom Kwiatkowski, Ji Ma, Jianmo Ni, Lierni Sestorain Saralegui, Tal Schuster, William W. Cohen, Michael Collins, Dipanjan Das, Donald Metzler, Slav Petrov, Kellie Webster"
+  pdf: "https://arxiv.org/pdf/2212.08037"
+  github: "https://github.com/google-research-datasets/Attributed-QA"
 
 - venue: "ACL 2021"
   title: "Span-based semantic parsing for compositional generalization"
