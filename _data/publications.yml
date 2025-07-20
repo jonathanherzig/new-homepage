@@ -158,13 +158,28 @@
   pdf: "https://arxiv.org/pdf/2010.05647"
   github: "http://github.com/inbaroren/improving-compgen-in-semparse"
 
+- venue: "NAACL 2019"
+  title: "CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge"
+  authors: "Alon Talmor, <u>Jonathan Herzig</u>, Nicholas Lourie, Jonathan Berant"
+  pdf: "https://arxiv.org/pdf/1811.00937"
+  github: "https://arxiv.org/pdf/github.com/jonathanherzig/commonsenseqa"
+  project: "http://www.tau-nlp.org/commonsenseqa"
+  star: "Best Resource Paper Award" 
+
+- venue: "NAACL 2019"
+  title: "Value-based Search in Execution Space for Mapping Instructions to Programs"
+  authors: "Dor Muhlgay, <u>Jonathan Herzig</u>, Jonathan Berant"
+
 - venue: "ACL 2019"
   title: "TalkSumm: A Dataset and Scalable Annotation Method for Scientific Paper Summarization Based on Conference Talks"
   authors: "Guy Lev, Michal Shmueli-Scheuer, <u>Jonathan Herzig</u>, Achiya Jerbi, David Konopnicki"
+  pdf: "https://arxiv.org/pdf/1906.01351"
+  github: "https://github.com/levguy/talksumm"
 
 - venue: "*SEM 2019"
   title: "Bot2vec: Learning representations of chatbots"
   authors: "<u>Jonathan Herzig</u>, Tommy Sandbank, Michal Shmueli-Scheuer, David Konopnicki"
+  pdf: "https://aclanthology.org/S19-1009.pdf"
 
 - venue: "UMAP 2019"
   title: "Detecting persuasive arguments based on author-reader personality traits and their interaction"
@@ -186,13 +201,7 @@
   title: "Decoupling Structure and Lexicon for Zero-Shot Semantic Parsing"
   authors: "<u>Jonathan Herzig</u>, Jonathan Berant"
 
-- venue: "NAACL 2019"
-  title: "CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge"
-  authors: "Alon Talmor, <u>Jonathan Herzig</u>, Nicholas Lourie, Jonathan Berant"
 
-- venue: "NAACL 2019"
-  title: "Value-based Search in Execution Space for Mapping Instructions to Programs"
-  authors: "Dor Muhlgay, <u>Jonathan Herzig</u>, Jonathan Berant"
 
 - venue: "ACL 2017"
   title: "Neural semantic parsing over multiple knowledge-bases"
