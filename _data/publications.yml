@@ -148,11 +148,15 @@
 
 - venue: "ACL 2020"
   title: "TAPAS: Weakly Supervised Table Parsing via Pre-training"
-  authors: "<u>Jonathan Herzig</u>, Pawel Nowak"
+  authors: "<u>Jonathan Herzig</u>, Paweł Krzysztof Nowak, Thomas Müller, Francesco Piccinno, Julian Martin Eisenschlos"
+  pdf: "https://arxiv.org/pdf/2004.02349"
+  github: "https://github.com/google-research/tapas"
 
 - venue: "Findings of EMNLP 2020"
   title: "Improving Compositional Generalization in Semantic Parsing"
-  authors: "Inbar Oren, <u>Jonathan Herzig</u>, Nitish Gupta, Matt Gardner, Jonathan Berant"
+  authors: "Inbar Oren, <u>Jonathan Herzig*</u>, Nitish Gupta*, Matt Gardner, Jonathan Berant"
+  pdf: "https://arxiv.org/pdf/2010.05647"
+  github: "http://github.com/inbaroren/improving-compgen-in-semparse"
 
 - venue: "ACL 2019"
   title: "TalkSumm: A Dataset and Scalable Annotation Method for Scientific Paper Summarization Based on Conference Talks"
