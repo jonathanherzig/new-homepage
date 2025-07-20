@@ -162,8 +162,7 @@
   title: "CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge"
   authors: "Alon Talmor*, <u>Jonathan Herzig*</u>, Nicholas Lourie, Jonathan Berant"
   pdf: "https://arxiv.org/pdf/1811.00937"
-  github: "https://arxiv.org/pdf/github.com/jonathanherzig/commonsenseqa"
-  project: "http://www.tau-nlp.org/commonsenseqa"
+  github: "https://github.com/jonathanherzig/commonsenseqa"
   star: true
   award: "Best Resource Paper Award" 
 
