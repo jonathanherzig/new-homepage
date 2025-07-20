@@ -159,8 +159,8 @@
   github: "http://github.com/inbaroren/improving-compgen-in-semparse"
 
 - venue: "NAACL 2019"
-  title: "CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge"
-  authors: "Alon Talmor, <u>Jonathan Herzig</u>, Nicholas Lourie, Jonathan Berant"
+  title: "CommonsenseQA: A Question Answering Challenge Targeting Commonsense Knowledge\n"
+  authors: "Alon Talmor*, <u>Jonathan Herzig*</u>, Nicholas Lourie, Jonathan Berant"
   pdf: "https://arxiv.org/pdf/1811.00937"
   github: "https://arxiv.org/pdf/github.com/jonathanherzig/commonsenseqa"
   project: "http://www.tau-nlp.org/commonsenseqa"
