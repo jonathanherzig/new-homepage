@@ -170,6 +170,8 @@
 - venue: "NAACL 2019"
   title: "Value-based Search in Execution Space for Mapping Instructions to Programs"
   authors: "Dor Muhlgay, <u>Jonathan Herzig</u>, Jonathan Berant"
+  pdf: "https://arxiv.org/pdf/1811.01090"
+  github: "http://gitlab.com/tau-nlp/vbsix-lang2program"
 
 - venue: "ACL 2019"
   title: "TalkSumm: A Dataset and Scalable Annotation Method for Scientific Paper Summarization Based on Conference Talks"
@@ -185,14 +187,18 @@
 - venue: "UMAP 2019"
   title: "Detecting persuasive arguments based on author-reader personality traits and their interaction"
   authors: "Michal Shmueli-Scheuer, <u>Jonathan Herzig</u>, David Konopnicki, Tommy Sandbank"
+  pdf: "https://dl.acm.org/doi/abs/10.1145/3320435.3320467"
 
 - venue: "EMNLP 2019"
   title: "Don't paraphrase, detect! Rapid and Effective Data Collection for Semantic Parsing"
   authors: "<u>Jonathan Herzig</u>, Jonathan Berant"
+  pdf: "https://arxiv.org/pdf/1908.09940"
+  github: "https://github.com/jonathanherzig/semantic-parsing-annotation"
 
 - venue: "EMNLP 2019"
   title: "A Summarization System for Scientific Documents"
-  authors: "Shai Erera, Michal Shmueli-Scheuer, Guy Feigenblat, Ora Peled Nakash, Odellia Boni, Haggai Roitman, Doron Cohen, Bar Weiner, Yosi Mass, Or Rivlin, others"
+  authors: "Shai Erera, Michal Shmueli-Scheuer, Guy Feigenblat, Ora Peled Nakash, Odellia Boni, Haggai Roitman, Doron Cohen, Bar Weiner, Yosi Mass, Or Rivlin, Guy Lev, Achiya Jerbi, <u>Jonathan Herzig</u>, Yufang Hou, Charles Jochim, Martin Gleize, Francesca Bonin, Debasis Ganguly, David Konopnicki"
+  pdf: "https://arxiv.org/pdf/1908.11152"
 
 - venue: "IUI 2018"
   title: "On the Expression of Agent Emotions in Customer Support Dialogs in Social Media"
