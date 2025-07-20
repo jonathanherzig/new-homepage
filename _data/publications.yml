@@ -148,7 +148,7 @@
 
 - venue: "ACL 2020"
   title: "TAPAS: Weakly Supervised Table Parsing via Pre-training"
-  authors: "<u>Jonathan Herzig</u>, Paweł Krzysztof Nowak, Thomas Müller, Francesco Piccinno, Julian Martin Eisenschlos"
+  authors: "<u>Jonathan Herzig</u>, Paweł Nowak, Thomas Müller, Francesco Piccinno, Julian Martin Eisenschlos"
   pdf: "https://arxiv.org/pdf/2004.02349"
   github: "https://github.com/google-research/tapas"
 
