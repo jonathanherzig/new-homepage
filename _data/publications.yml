@@ -62,30 +62,42 @@
 - venue: "Findings of ACL 2023"
   title: "mFACE: Multilingual Summarization with Factual Consistency Evaluation"
   authors: "Roee Aharoni, Shashi Narayan, Joshua Maynez, <u>Jonathan Herzig</u>, Elizabeth Clark, Mirella Lapata"
+  pdf: "https://arxiv.org/pdf/2212.10622"
+  github: "https://github.com/google-research/google-research/tree/master/mface"
 
 - venue: "NeurIPS 2023"
   title: "What You See is What You Read? Improving Text-Image Alignment Evaluation"
   authors: "Michal Yarom, Yonatan Bitton, Soravit Changpinyo, Roee Aharoni, <u>Jonathan Herzig</u>, Oran Lang, Eran Ofek, Idan Szpektor"
+  pdf: "https://proceedings.neurips.cc/paper_files/paper/2023/file/056e8e9c8ca9929cb6cf198952bf1dbb-Paper-Conference.pdf"
+  project: "https://wysiwyr-itm.github.io"
 
 - venue: "EMNLP 2023"
   title: "Trueteacher: Learning factual consistency evaluation with large language models"
   authors: "Zorik Gekhman, <u>Jonathan Herzig</u>, Roee Aharoni, Chen Elkind, Idan Szpektor"
+  pdf: "https://arxiv.org/pdf/2305.11171"
+  project: "https://github.com/google-research/google-research/tree/master/true_teacher"
 
 - venue: "EMNLP 2023"
   title: "Evaluating and Modeling Attribution for Cross-Lingual Question Answering"
   authors: "Benjamin Muller, John Wieting, Jonathan H Clark, Tom Kwiatkowski, Sebastian Ruder, Livio Baldini Soares, Roee Aharoni, <u>Jonathan Herzig</u>, Xinyi Wang"
+  pdf: "https://arxiv.org/pdf/2305.14332"
+  github: "https://github.com/google-research/google-research/tree/master/xor_attriqa"
 
 - venue: "GEM Workshop 2023"
   title: "QAMPARI: A benchmark for open-domain questions with many answers"
   authors: "Samuel Amouyal, Tomer Wolfson, Ohad Rubin, Ori Yoran, <u>Jonathan Herzig</u>, Jonathan Berant"
+  pdf: "https://aclanthology.org/2023.gem-1.9.pdf"
+  github: "https://github.com/samsam3232/qampari"
 
 - venue: "Findings of EMNLP 2023"
   title: "A Comprehensive Evaluation of Tool-Assisted Generation Strategies"
   authors: "Alon Jacovi, Avi Caciularu, <u>Jonathan Herzig</u>, Roee Aharoni, Bernd Bohnet, Mor Geva"
+  pdf: "https://arxiv.org/pdf/2310.10062"
 
 - venue: "Compendium of Neurosymbolic Artificial Intelligence 2023"
   title: "Latent Trees for Compositional Generalization"
   authors: "<u>Jonathan Herzig</u>, Jonathan Berant, Ben Bogin"
+  pdf: "https://ebooks.iospress.nl/doi/10.3233/FAIA230161"
 
 - venue: "NAACL 2022"
   title: "Learning To Retrieve Prompts for In-Context Learning"
