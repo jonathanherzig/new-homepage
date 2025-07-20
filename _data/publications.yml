@@ -199,15 +199,16 @@
   authors: "Shai Erera, Michal Shmueli-Scheuer, Guy Feigenblat, Ora Peled Nakash, Odellia Boni, Haggai Roitman, Doron Cohen, Bar Weiner, Yosi Mass, Or Rivlin, Guy Lev, Achiya Jerbi, <u>Jonathan Herzig</u>, Yufang Hou, Charles Jochim, Martin Gleize, Francesca Bonin, Debasis Ganguly, David Konopnicki"
   pdf: "https://arxiv.org/pdf/1908.11152"
 
-- venue: "IUI 2018"
-  title: "On the Expression of Agent Emotions in Customer Support Dialogs in Social Media"
-  authors: "Michal Shmueli-Scheuer, <u>Jonathan Herzig</u>, Tommy Sandbank, David Konopnicki"
-
 - venue: "EMNLP 2018"
   title: "Decoupling Structure and Lexicon for Zero-Shot Semantic Parsing"
   authors: "<u>Jonathan Herzig</u>, Jonathan Berant"
+  pdf: "https://arxiv.org/pdf/1804.07918"
+  github: "https://github.com/jonathanherzig/zero-shot-semantic-parsing"
 
-
+- venue: "IUI 2018"
+  title: "On the Expression of Agent Emotions in Customer Support Dialogs in Social Media"
+  authors: "Michal Shmueli-Scheuer, <u>Jonathan Herzig</u>, Tommy Sandbank, David Konopnicki"
+  pdf: "https://www.researchgate.net/profile/Jonathan-Herzig/publication/323594537_On_the_Expression_of_Agent_Emotions_in_Customer_Support_Dialogs_in_Social_Media/links/5aaa61b845851517881a3eb3/On-the-Expression-of-Agent-Emotions-in-Customer-Support-Dialogs-in-Social-Media.pdf
 
 - venue: "ACL 2017"
   title: "Neural semantic parsing over multiple knowledge-bases"
