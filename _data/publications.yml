@@ -253,22 +253,27 @@
   authors: "<u>Jonathan Herzig</u>, Guy Feigenblat, Michal Shmueli-Scheuer, David Konopnicki, Anat Rafaeli, Daniel Altman, David Spivak"
   pdf: "https://aclanthology.org/W16-3609.pdf"
 
+- venue: "IEEE Transactions on Biomedical Engineering 2014"
+  title: "Monitoring cardiac stress using features extracted from S1 heart sounds"
+  authors: "<u>Jonathan Herzig</u>, Amitai Bickel, Arie Eitan, Nathan Intrator"
+  pdf: "https://ieeexplore.ieee.org/iel7/10/4359967/06975053.pdf"
+
 - venue: "Hypertext 2014"
   title: "An author-reader influence model for detecting topic-based influencers in social media"
   authors: "<u>Jonathan Herzig</u>, Yosi Mass, Haggai Roitman"
+  pdf: "https://www.researchgate.net/profile/Jonathan-Herzig/publication/266661023_An_author-reader_influence_model_for_detecting_topic-based_influencers_in_social_media/links/6007f30d45851553a05857c3/An-author-reader-influence-model-for-detecting-topic-based-influencers-in-social-media.pdf"
 
 - venue: "ImmersiveMe 2014"
   title: "Mindful: A Platform for Large-Scale Affective Field Research"
   authors: "Guy Feigenblat, <u>Jonathan Herzig</u>, Michal Shmueli-Scheuer, David Konopnicki"
-
-- venue: "IEEE Transactions on Biomedical Engineering 2014"
-  title: "Monitoring cardiac stress using features extracted from S1 heart sounds"
-  authors: "<u>Jonathan Herzig</u>, Amitai Bickel, Arie Eitan, Nathan Intrator"
+  pdf: "https://dl.acm.org/doi/abs/10.1145/2660579.2660583"
 
 - venue: "IBM Journal of Research and Development 2013"
   title: "A statistical approach to mining customers' conversational data from social media"
   authors: "David Konopnicki, Michal Shmueli-Scheuer, Doron Cohen, Benjamin Sznajder, <u>Jonathan Herzig</u>, Ariel Raviv, N Zwerling, Haggai Roitman, Yosi Mass"
+  pdf: "https://www.researchgate.net/profile/Jonathan-Herzig/publication/260624132_A_statistical_approach_to_mining_customers%27_conversational_data_from_social_media/links/60c70b724585157774d6dde6/A-statistical-approach-to-mining-customers-conversational-data-from-social-media.pdf"
 
 - venue: "PCI 2013"
   title: "Eventsense: Capturing the pulse of large-scale events by mining social media streams"
   authors: "Emmanouil Schinas, Symeon Papadopoulos, Sotiris Diplaris, Yiannis Kompatsiaris, Yosi Mass, <u>Jonathan Herzig</u>, Lazaros Boudakidis"
+  pdf: "https://www.academia.edu/download/43980560/EventSense_capturing_the_pulse_of_large-20160322-8456-2ej8wy.pdf"
