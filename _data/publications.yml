@@ -40,7 +40,7 @@
   title: "TACT: Advancing Complex Aggregative Reasoning with Information Extraction Tools"
   authors: "Avi Caciularu, Alon Jacovi, Eyal Ben-David, Sasha Goldshtein, Tal Schuster, <u>Jonathan Herzig</u>, Gal Elidan, Amir Globerson"
   pdf: "https://proceedings.neurips.cc/paper_files/paper/2024/file/3d7025dc9bd4c8b6fb1eef80cc618008-Paper-Datasets_and_Benchmarks_Track.pdf"
-  project: "tact-benchmark.github.io"
+  project: "https://tact-benchmark.github.io"
 
 - venue: "ICML 2024"
   title: "Representation Surgery: Theory and Practice of Affine Steering"
