@@ -241,14 +241,17 @@
 - venue: "CSCW 2016"
   title: "I understand your frustration"
   authors: "Guy Feigenblat, David Konopnicki, Michal Shmueli-Scheuer, <u>Jonathan Herzig</u>, Hen Shkedi"
+  pdf: "https://dl.acm.org/doi/abs/10.1145/2818052.2874316"
 
 - venue: "UMAP 2016"
   title: "Predicting customer satisfaction in customer support conversations in social media using affective features"
   authors: "<u>Jonathan Herzig</u>, Guy Feigenblat, Michal Shmueli-Scheuer, David Konopnicki, Anat Rafaeli"
+  pdf: "https://www.researchgate.net/profile/Jonathan-Herzig/publication/305277379_Predicting_Customer_Satisfaction_in_Customer_Support_Conversations_in_Social_Media_Using_Affective_Features/links/600145fc299bf1408897605e/Predicting-Customer-Satisfaction-in-Customer-Support-Conversations-in-Social-Media-Using-Affective-Features.pdf"
 
 - venue: "SIGDial 2016"
   title: "Classifying emotions in customer support dialogues in social media"
   authors: "<u>Jonathan Herzig</u>, Guy Feigenblat, Michal Shmueli-Scheuer, David Konopnicki, Anat Rafaeli, Daniel Altman, David Spivak"
+  pdf: "https://aclanthology.org/W16-3609.pdf"
 
 - venue: "Hypertext 2014"
   title: "An author-reader influence model for detecting topic-based influencers in social media"
