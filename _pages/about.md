@@ -25,7 +25,7 @@ I earned my PhD in Natural Language Processing from Tel Aviv University as a rec
   <tbody>
     {% for pub in site.data.publications %}
     <tr>
-      <td class="tg-wk8r">{{ pub.venue }}</td>
+      <td class="tg-wk8r"><strong>{{ pub.venue }}</strong></td>
       <td class="tg-oe15">
         {{ pub.title }}
         
