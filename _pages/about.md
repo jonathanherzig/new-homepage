@@ -27,7 +27,7 @@ I earned my PhD in Natural Language Processing from Tel Aviv University as a rec
     <tr>
       <td class="tg-wk8r">{{ <b>pub.venue</b> }}</td>
       <td class="tg-oe15">
-        {{ <b>pub.title</b> }}
+        {{ pub.title }}
         
         {% if pub.star %}
           <img src="{{ "/images/trophy.png" | relative_url }}" alt="Star" style="width: auto; height: 18px;"/>
