@@ -205,6 +205,11 @@
   pdf: "https://arxiv.org/pdf/1804.07918"
   github: "https://github.com/jonathanherzig/zero-shot-semantic-parsing"
 
+- venue: "NAACL 2018"
+  title: "Detecting Egregious Conversations between Customers and Virtual Agents"
+  authors: "Tommy Sandbank, Michal Shmueli-Scheuer, David Konopnicki, <u>Jonathan Herzig</u>, John Richards, David Piorkowski"
+  pdf: "https://arxiv.org/pdf/1711.05780"
+
 - venue: "IUI 2018"
   title: "On the Expression of Agent Emotions in Customer Support Dialogs in Social Media"
   authors: "Michal Shmueli-Scheuer, <u>Jonathan Herzig</u>, Tommy Sandbank, David Konopnicki"
@@ -213,22 +218,25 @@
 - venue: "ACL 2017"
   title: "Neural semantic parsing over multiple knowledge-bases"
   authors: "<u>Jonathan Herzig</u>, Jonathan Berant"
+  pdf: "https://arxiv.org/pdf/1702.01569"
+  github: "https://worksheets.codalab.org/worksheets/0xdec998f58deb4829aba80fbf49f69236/"
 
 - venue: "IUI 2017"
   title: "Ehctool: Managing emotional hotspots for conversational agents"
   authors: "Tommy Sandbank, Michal Shmueli-Scheuer, <u>Jonathan Herzig</u>, David Konopnicki, Rottem Shaul"
+  pdf: "https://dl.acm.org/doi/abs/10.1145/3030024.3038260"
 
 - venue: "INLG 2017"
   title: "Neural response generation for customer service based on personality traits"
   authors: "<u>Jonathan Herzig</u>, Michal Shmueli-Scheuer, Tommy Sandbank, David Konopnicki"
-
-- venue: "NAACL 2018"
-  title: "Detecting Egregious Conversations between Customers and Virtual Agents"
-  authors: "Tommy Sandbank, Michal Shmueli-Scheuer, David Konopnicki, <u>Jonathan Herzig</u>, John Richards, David Piorkowski"
+  pdf: "https://aclanthology.org/W17-3541.pdf"
+  star: true
+  award: "Best Short Paper Award"
 
 - venue: "ICTIR 2017"
   title: "Emotion detection from text via ensemble classification using word embeddings"
   authors: "<u>Jonathan Herzig</u>, Michal Shmueli-Scheuer, David Konopnicki"
+  pdf: "https://www.researchgate.net/profile/Jonathan-Herzig/publication/320123652_Emotion_Detection_from_Text_via_Ensemble_Classification_Using_Word_Embeddings/links/5fd27c40a6fdcc697bf6f889/Emotion-Detection-from-Text-via-Ensemble-Classification-Using-Word-Embeddings.pdf"
 
 - venue: "CSCW 2016"
   title: "I understand your frustration"
