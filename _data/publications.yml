@@ -28,26 +28,36 @@
 - venue: "arXiv 2024"
   title: "Constructing benchmarks and interventions for combating hallucinations in llms"
   authors: "Adi Simhi, <u>Jonathan Herzig</u>, Idan Szpektor, Yonatan Belinkov"
+  pdf: "https://arxiv.org/pdf/2404.09971"
+  github: "https://github.com/technion-cs-nlp/hallucination-mitigation"
 
 - venue: "EMNLP 2024"
   title: "Does Fine-Tuning LLMs on New Knowledge Encourage Hallucinations?"
   authors: "Zorik Gekhman, Gal Yona, Roee Aharoni, Matan Eyal, Amir Feder, Roi Reichart, <u>Jonathan Herzig</u>"
+  pdf: "https://arxiv.org/pdf/2405.05904"
 
 - venue: "NeurIPS 2024"
   title: "TACT: Advancing Complex Aggregative Reasoning with Information Extraction Tools"
   authors: "Avi Caciularu, Alon Jacovi, Eyal Ben-David, Sasha Goldshtein, Tal Schuster, <u>Jonathan Herzig</u>, Gal Elidan, Amir Globerson"
+  pdf: "https://proceedings.neurips.cc/paper_files/paper/2024/file/3d7025dc9bd4c8b6fb1eef80cc618008-Paper-Datasets_and_Benchmarks_Track.pdf"
+  project: "tact-benchmark.github.io"
 
 - venue: "ICML 2024"
   title: "Representation Surgery: Theory and Practice of Affine Steering"
   authors: "Shashwat Singh, Shauli Ravfogel, <u>Jonathan Herzig</u>, Roee Aharoni, Ryan Cotterell, Ponnurangam Kumaraguru"
+  pdf: "https://arxiv.org/pdf/2402.09631"
+  github: "https://github.com/shauli-ravfogel/affine-steering"
 
 - venue: "arXiv 2024"
   title: "Can few-shot work in long-context? recycling the context to generate demonstrations"
-  authors: "Arie Cattan, Alon Jacovi, Alex Fabrikant, <u>Jonathan Herzig</u>, Roee Aharoni, Hannah Rashkin, Dror Marcus, Avinatan Hassidim, Yossi Matias, Idan Szpektor, others"
+  authors: "Arie Cattan, Alon Jacovi, Alex Fabrikant, <u>Jonathan Herzig</u>, Roee Aharoni, Hannah Rashkin, Dror Marcus, Avinatan Hassidim, Yossi Matias, Idan Szpektor, Avi Caciularu"
+  pdf: "https://arxiv.org/pdf/2406.13632?"
 
 - venue: "arXiv 2024"
   title: "Distinguishing ignorance from error in llm hallucinations"
   authors: "Adi Simhi, <u>Jonathan Herzig</u>, Idan Szpektor, Yonatan Belinkov"
+  pdf: "https://arxiv.org/pdf/2410.22071"
+  github: "https://github.com/technion-cs-nlp/hallucination-mitigation"
 
 - venue: "Findings of ACL 2023"
   title: "mFACE: Multilingual Summarization with Factual Consistency Evaluation"
