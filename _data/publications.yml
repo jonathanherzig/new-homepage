@@ -164,7 +164,8 @@
   pdf: "https://arxiv.org/pdf/1811.00937"
   github: "https://arxiv.org/pdf/github.com/jonathanherzig/commonsenseqa"
   project: "http://www.tau-nlp.org/commonsenseqa"
-  star: "Best Resource Paper Award" 
+  star: true
+  award: "Best Resource Paper Award" 
 
 - venue: "NAACL 2019"
   title: "Value-based Search in Execution Space for Mapping Instructions to Programs"
