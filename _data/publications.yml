@@ -75,7 +75,7 @@
   title: "Trueteacher: Learning factual consistency evaluation with large language models"
   authors: "Zorik Gekhman, <u>Jonathan Herzig</u>, Roee Aharoni, Chen Elkind, Idan Szpektor"
   pdf: "https://arxiv.org/pdf/2305.11171"
-  project: "https://github.com/google-research/google-research/tree/master/true_teacher"
+  github: "https://github.com/google-research/google-research/tree/master/true_teacher"
 
 - venue: "EMNLP 2023"
   title: "Evaluating and Modeling Attribution for Cross-Lingual Question Answering"
