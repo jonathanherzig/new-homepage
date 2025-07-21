@@ -44,7 +44,7 @@ I earned my PhD in Natural Language Processing from Tel Aviv University as a rec
         <br>{{ pub.authors }}
         <span style="display: block; margin-bottom: -13px;"></span> <br> 
         
-        <a href="{{ pub.pdf }}">
+        <a href="{{ pub.pdf }}" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/PDF-80000f" alt="PDF" style="width: auto; height: 20px;"/>
         </a>
         
