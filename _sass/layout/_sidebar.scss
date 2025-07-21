@@ -167,7 +167,8 @@
 
 .author__urls-wrapper {
   position: relative;
-  display: table-cell;
+  /* NEW: Change to block to allow centering */
+  display: block;
   vertical-align: middle;
   font-family: $sans-serif;
   z-index: 10;
@@ -193,14 +194,16 @@
 .author__urls {
   /* Make the list visible and stack vertically */
   display: block;
-  position: static; /* Change from absolute to static */
-  margin-top: 1.5em; /* Add space above the links */
+  position: static;
+  margin-top: 1.5em;
   padding: 0;
   list-style-type: none;
-  border: 0; /* Remove border */
-  background: transparent; /* Remove background */
-  box-shadow: none; /* Remove shadow */
+  border: 0;
+  background: transparent;
+  box-shadow: none;
   cursor: default;
+  /* Center the inline-block icons on mobile */
+  text-align: center;
 
   @include breakpoint($large) {
     display: block;
@@ -210,6 +213,8 @@
     border: 0;
     background: transparent;
     box-shadow: none;
+    /* Reset text alignment for desktop */
+    text-align: left;
   }
 
   &:before {
@@ -224,20 +229,43 @@
 
   li {
     white-space: nowrap;
+    /* Make icons appear in a row on mobile */
+    display: inline-block;
+
+    @include breakpoint($large) {
+      /* Reset for desktop to be a vertical list */
+      display: block;
+    }
   }
 
   a {
     display: block;
     margin-bottom: 5px;
-    padding-right: 5px;
-    padding-top: 2px;
-    padding-bottom: 2px;
-    color: inherit;
-    font-size: $type-size-5;
+    padding: 5px 8px;
+    /* Hide link text on mobile */
+    font-size: 0;
     text-decoration: none;
+    /* FIX: Set a default color for links */
+    color: var(--link-color);
 
     &:hover {
       text-decoration: underline;
+    }
+
+    @include breakpoint($large) {
+      /* Reset font-size for desktop to show text */
+      font-size: $type-size-5;
+      padding: 2px 5px 2px 0;
+    }
+
+    /* Target icons to make them visible and larger on mobile */
+    i {
+      font-size: 1.35rem; /* Adjust this value to your liking */
+
+      @include breakpoint($large) {
+        /* Reset icon font size for desktop */
+        font-size: inherit;
+      }
     }
   }
 }
