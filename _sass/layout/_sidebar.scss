@@ -232,9 +232,24 @@
     /* Make icons appear in a row on mobile */
     display: inline-block;
 
+    /* FINAL FIX: Remove outer padding on first/last icons for true centering */
+    &:first-child a {
+      padding-left: 0;
+    }
+    &:last-child a {
+      padding-right: 0;
+    }
+
     @include breakpoint($large) {
       /* Reset for desktop to be a vertical list */
       display: block;
+
+      /* Reset padding for desktop view */
+      &:first-child a,
+      &:last-child a {
+        padding-left: 0;
+        padding-right: 5px;
+      }
     }
   }
 
