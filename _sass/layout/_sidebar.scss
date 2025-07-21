@@ -85,7 +85,7 @@
   display: block;
   vertical-align: top;
   /* Set a larger, fixed width and center it */
-  width: 150px;
+  width: 170px;
   margin: 0 auto 1em; /* 0 for top/bottom, auto for left/right centers it */
 
   @include breakpoint($large) {
