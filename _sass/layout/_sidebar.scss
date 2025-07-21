@@ -201,6 +201,8 @@
   background: transparent; /* Remove background */
   box-shadow: none; /* Remove shadow */
   cursor: default;
+  /* NEW: Center the inline-block icons on mobile */
+  text-align: center;
 
   @include breakpoint($large) {
     display: block;
@@ -210,6 +212,8 @@
     border: 0;
     background: transparent;
     box-shadow: none;
+    /* NEW: Reset text alignment for desktop */
+    text-align: left;
   }
 
   &:before {
@@ -224,20 +228,43 @@
 
   li {
     white-space: nowrap;
+    /* NEW: Make icons appear in a row on mobile */
+    display: inline-block;
+
+    @include breakpoint($large) {
+      /* NEW: Reset for desktop to be a vertical list */
+      display: block;
+    }
   }
 
   a {
     display: block;
     margin-bottom: 5px;
-    padding-right: 5px;
-    padding-top: 2px;
-    padding-bottom: 2px;
-    color: inherit;
-    font-size: $type-size-5;
+    /* NEW: Add padding for better spacing and click area */
+    padding: 5px 8px;
+    /* NEW: Hide link text on mobile */
+    font-size: 0;
     text-decoration: none;
 
     &:hover {
       text-decoration: underline;
+    }
+
+    @include breakpoint($large) {
+      /* Reset font-size for desktop to show text */
+      font-size: $type-size-5;
+      /* Reset padding for desktop */
+      padding: 2px 5px 2px 0;
+    }
+
+    /* NEW: Target icons to make them visible and larger on mobile */
+    i {
+      font-size: 1.35rem; /* Adjust this value to your liking */
+
+      @include breakpoint($large) {
+        /* Reset icon font size for desktop */
+        font-size: inherit;
+      }
     }
   }
 }
